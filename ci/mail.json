@@ -1,0 +1,3 @@
+{
+  "hook": "http://139.196.104.13:9181/api/_/ci/getMailConfig"
+}

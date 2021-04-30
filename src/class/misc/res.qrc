@@ -1,0 +1,8 @@
+﻿<RCC>
+    <qresource prefix="/gph2-topmes">
+        <file>icon/count_bg.png</file>
+        <file>icon/count.svg</file>
+        <file>icon/progress.svg</file>
+        <file>icon/progress_bg.png</file>
+    </qresource>
+</RCC>

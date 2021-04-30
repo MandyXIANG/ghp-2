@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TopMES</string>
+    <string moduleConfig="true" name="CodePushDeploymentKey">0w4dWkEhyf4gWTrs5XI0cld9TWnl4ksvOXqog</string>
+    <string moduleConfig="true" name="reactNativeCodePush_androidServerURL">http://192.168.15.11:3095</string>
+</resources>

@@ -1,0 +1,24 @@
+{
+  "The user is not active": {
+    "zhcn": "这个用户没有激活",
+    "zhtw": "這個用戶沒有激活"
+  },
+  "User[{0}] does not exists.": {
+    "zhcn": "用户[{0}]不存在",
+    "zhtw": "用戶[{0}]不存在"
+  },
+  "The password is incorrect.": {
+    "zhcn": "密码输入错误",
+    "zhtw": "密碼輸入錯誤"
+  },
+  "[username] and [password] can not be null!": {
+    "zhcn": "用户和密码不能为空",
+    "zhtw": "用戶和密碼不能為空"
+  },
+  "ceshi": {
+    "zhcn": "测试",
+    "zhtw": "測試",
+    "en": "Test",
+    "de": "德語測試"
+  }
+}

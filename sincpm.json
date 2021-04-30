@@ -1,0 +1,68 @@
+[
+  {
+    "name": "ghp2-topmes",
+    "version": "1.0.65",
+    "os": "windows",
+    "arch": "x86",
+    "compiler": "msvc2015",
+    "qt": "5.6.3",
+    "noqt": false,
+    "devDependencies": {
+      "topikm6-frame": "^6.0.0",
+      "topikm6-topsys": "^6.1.0",
+      "topikm6-meskernel": "^6.1.0",
+      "topikm6-templateclass": "^1.0.0"
+    },
+    "prefix": "dist/topikm/qt5.6.3-win32-msvc2015/",
+    "dist": "dist/topikm/qt5.6.3-win32-msvc2015/",
+    "dependencies": {
+      "topikm6-frame": "^6.0.0",
+      "topikm6-templateclass": "^1.0.0"
+    },
+    "packageFiles": []
+  },
+  {
+    "name": "ghp2-topmes",
+    "version": "1.0.65",
+    "os": "linux",
+    "arch": "x64",
+    "compiler": "gcc",
+    "qt": "5.6.3",
+    "noqt": false,
+    "devDependencies": {
+      "topikm6-frame": "^6.0.0",
+      "topikm6-topsys": "^6.1.0",
+      "topikm6-meskernel": "^6.1.0",
+      "topikm6-templateclass": "^1.0.0"
+    },
+    "prefix": "dist/topikm/qt5.6.3-linuxx86_64/",
+    "dist": "dist/topikm/qt5.6.3-linuxx86_64/",
+    "dependencies": {
+      "topikm6-frame": "^6.0.0",
+      "topikm6-templateclass": "^1.0.0"
+    },
+    "packageFiles": []
+  },
+  {
+    "name": "ghp2-topmes-debug",
+    "version": "1.0.65",
+    "os": "windows",
+    "arch": "x86",
+    "compiler": "msvc2015",
+    "qt": "5.6.3",
+    "noqt": false,
+    "devDependencies": {
+      "topikm6-frame-debug": "^6.0.0",
+      "topikm6-topsys-debug": "^6.1.0",
+      "topikm6-meskernel-debug": "^6.1.0",
+      "topikm6-templateclass-debug": "^1.0.0"
+    },
+    "prefix": "dist/topikm/qt5.6.3-win32-msvc2015/",
+    "dist": "dist/topikm/qt5.6.3-win32-msvc2015/",
+    "dependencies": {
+      "topikm6-frame-debug": "^6.0.0",
+      "topikm6-templateclass-debug": "^1.0.0"
+    },
+    "packageFiles": []
+  }
+]

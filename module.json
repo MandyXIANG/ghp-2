@@ -1,0 +1,7 @@
+{
+    "module_name": "GHP2 TopMES Module",
+    "module_name_en": "GHP2 TopMES Module",
+    "module_name_zhcn": "GHP2 TopMES Module",
+    "module_name_zhtw": "GHP2 TopMES Module",
+    "hook": "http://139.196.104.13:9181/api/_/ci/getModuleConfig"
+}

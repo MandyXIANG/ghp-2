@@ -1,0 +1,11 @@
+﻿
+{
+    "TOPMES6_GHP_V6" : {
+        "database_type" : "pg",
+        "database_host" : "139.196.104.13:5433",
+        "database_name" : "TOPMES6_GHP_V6",
+        "database_user" : "toplinker",
+        "database_pwd" : "TopLinker0510",
+        "auto_close_timeout" : -1
+    }
+}

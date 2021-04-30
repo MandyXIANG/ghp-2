@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TopWMS</string>
+    <string moduleConfig="true" name="CodePushDeploymentKey">4QudJuV8niuG01LwwppVixMchGO24ksvOXqog</string>
+    <string moduleConfig="true" name="reactNativeCodePush_androidServerURL">http://192.168.15.11:3095</string>
+</resources>

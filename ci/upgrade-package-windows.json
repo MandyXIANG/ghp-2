@@ -1,0 +1,62 @@
+{
+    "project": {
+        "module": {
+            "normal": [
+                {
+                    "path": "${pwd}/../src/module/",
+                    "search_keys": [
+                        "*"
+                    ]
+                }
+            ]
+        },
+        "enum": {
+            "normal": [
+                {
+                    "path": "${pwd}/../src/module/__sys_enum__/",
+                    "search_keys": [
+                        "*.conf"
+                    ],
+                    "recursively": false
+                }
+            ]
+        },
+        "permission": {
+            "normal": [
+                {
+                    "path": "${pwd}/../src/module/__sys_permission__/",
+                    "search_keys": [
+                        "*.conf"
+                    ],
+                    "recursively": false
+                }
+            ]
+        }
+    },
+    "file": {
+        "normal": [
+            {
+                "path": "${pwd}/../dist/topikm/template/",
+                "search_keys": [
+                    "*.*"
+                ],
+                "recursively": true
+            },
+            {
+                "path": "${pwd}/../dist/topikm/qt5.6.3-win32-msvc2015/resource/",
+                "search_keys": [
+                    "*.*"
+                ],
+                "recursively": true
+            },
+            {
+                "path": "${pwd}/../dist/topikm/qt5.6.3-win32-msvc2015/bin/plugins/",
+                "search_keys": [
+                    "ghp2-topmes-plugin.dll"
+                ],
+                "recursively": false
+            }
+        ]
+    },
+    "release_note": ""
+}
